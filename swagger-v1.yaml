@@ -1,0 +1,6 @@
+swagger: "2.0"
+info:
+  title: Test API
+  version: "1.0.0"
+  description: SECURITY TEST PAYLOAD - This file contains a test XSS payload (simple xss alert) for Swagger UI. <form><math><mtext></form><form><mglyph><style></math><img src onerror=alert(2)>
+paths: {}
