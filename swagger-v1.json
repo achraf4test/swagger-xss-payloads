@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/achraf4test/swagger-xss-payloads/refs/heads/main/swagger-v1.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/achraf4test/swagger-xss-payloads/refs/heads/main/swagger-v1.yaml",
+            "name": "Simple mXSS Alert"
+        }
+    ]
+}
